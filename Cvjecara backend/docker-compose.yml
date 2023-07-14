@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  cvjecarabackend:
+    image: ${DOCKER_REGISTRY-}cvjecarabackend
+    build:
+      context: .
+      dockerfile: Cvjecara backend/Dockerfile
+  db:
+    image: postgres
+    ports: 
+      - 5432:5432
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: student2080
+      POSTGRES_USER: Dragan
+      POSTGRES_DB: Cvjecara
+    volumes:
+      - ./.containers/database:/var/lib/postgresql/data
+  azurite:
+    image: mcr.microsoft.com/azure-storage/azurite
+    command: "azurite --loose --blobHost 0.0.0.0 --blobPort 10000 --queueHost 0.0.0.0 --queuePort 10001 --location /workspace --debug /workspace/debug.log"
+    ports:
+      - 10010:10000
+      - 10011:10001
+      - 10012:10002
+    volumes:
+      - ./.containers/azurite:/workspace

@@ -1,0 +1,58 @@
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Cvjecara backend.deps.json
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Cvjecara backend.runtimeconfig.json
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\appsettings.Development.json
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\appsettings.json
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Cvjecara backend.exe
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Cvjecara backend.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Web.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Abstractions.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.Validators.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Web.Certificate.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Npgsql.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Security.KeyVault.Certificates.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Security.KeyVault.Secrets.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Cvjecara backend.pdb
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Serilog.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Serilog.Extensions.Hosting.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Serilog.Settings.Configuration.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Serilog.Extensions.Logging.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Core.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Extensions.Azure.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Storage.Queues.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Serilog.AspNetCore.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\System.Memory.Data.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Storage.Common.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\System.IO.Hashing.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Azure.Identity.dll
+C:\Users\XY\Desktop\cvjecara sa pravim backendom\Cvjecara backend\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
